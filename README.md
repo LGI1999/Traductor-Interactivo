@@ -17,24 +17,6 @@ paginas. Además se puede tanto modificar como eliminar cada palabra con su resp
 Otra funcionalidad que hay es el filtro, el cual permite buscar en base a 4 criterios, el numero de una pagina (conjunto de palabra), la palabra en ingles que es traducida,
 una de las traducciones al español y la forma en presente de un verbo en pasado.
 
-MOTIVACIONES DEL PROGRAMA
-
-La particular funcionalidad del programa nace de mi método de estudiar en ingles, ya que esta manera de tener una palabra en ingles con sus significados es la manera en que
-estudio ingles pero antes del programa lo hacia con un cuaderno. 
-
-FUTURAS MEJORAS
-
-Estructura de la base de datos: Mi idea actual es quitar la tabla donde están todos los significados y reemplazarla por una tabla con los significados en español y una tabla
-intermedia entre la tabla con las palabras en ingles y esta nueva tabla con las palabras en español, esto para no repetir los significados en español.
-
-Clases: Considero que la separación actual de los métodos no es muy intuitiva, por eso quiero organizar los diferentes métodos para así tener clases que tengan un significado
-bien marcado y se entienda de mejor manera el código. Igualmente esta todo comentado, pero creo que no le vendría mal esta organización.
-
-Minijuegos: Esto no lo tengo muy definido todavía, pero tengo unos cuantos minijuegos en mente, como uno en donde se muestre una palabra en español y se deba ingresar los diferentes
-significados en ingles que tiene esa palabra.
-
-Interfaz: La interfaz necesita una completa mejora, desde el diseño hasta el ajuste de tamaño de los diferentes controles que tienen los formularios.
-
 COMANDOS
 
 Dentro del formulario donde se nos permite agregar o modificar una palabra al apretar la tecla "enter" en todos los campo de textos (exceptuando el campo de texto donde se
